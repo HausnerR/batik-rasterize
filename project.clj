@@ -1,7 +1,7 @@
 (defproject batik-rasterize "0.1.2"
   :description "Clojure batik wrapper for rasterizing SVG graphics"
   :url "https://github.com/hausnerr/batik-rasterize"
-  :license {:name "Eclipse Public License"
+  :license {:name "Apache License version 2.0"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
 
   :dependencies [[org.clojure/clojure "1.8.0"]
