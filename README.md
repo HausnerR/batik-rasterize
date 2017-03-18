@@ -2,7 +2,11 @@
 
 Clojure batik wrapper for rasterizing SVG graphics.
 
-Inspired by Clojure dali library.
+Inspired by Clojure [dali] library.
+
+[dali]: https://github.com/stathissideris/dali
+
+[![Clojars Project](https://img.shields.io/clojars/v/batik-rasterize.svg)](https://clojars.org/batik-rasterize)
 
 ## Usage
 
